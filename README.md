@@ -29,7 +29,7 @@ Hash extraction and cracking
 
 Automated workflows
 
-📂 Check it out: [Link to repository]
+📂 Check it out: https://github.com/Touti-Sudo/Touti-Cracker
 
 My Goals
 
@@ -41,9 +41,9 @@ My Goals
 
 Let's Connect
 
-🌐 GitHub: Your GitHub Profile
+🌐 GitHub: Touti-Sudo
 
-✉️ Email: yourname@example.com
+Discord: 
 
 💬 Feel free to reach out for collaboration, feedback, or just to say hi!
 
