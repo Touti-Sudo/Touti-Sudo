@@ -15,7 +15,39 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### My Current Projects
 
+Touti Cracker
+
+An educational tool for managing brute-force password attacks, designed with a focus on ethics and learning. 🚨 For educational purposes only.
+
+Features:
+
+Password list generation
+
+Hash extraction and cracking
+
+Automated workflows
+
+📂 Check it out: [Link to repository]
+
+My Goals
+
+🚀 Continuously improve my programming skills.
+
+🌍 Contribute to open-source projects.
+
+🧠 Learn more about cybersecurity and AI technologies.
+
+Let's Connect
+
+🌐 GitHub: Your GitHub Profile
+
+✉️ Email: yourname@example.com
+
+💬 Feel free to reach out for collaboration, feedback, or just to say hi!
+
+Thanks for visiting my profile! 😊
 ---
 [![](https://visitcount.itsvg.in/api?id=Touti-Sudo&icon=0&color=4)](https://visitcount.itsvg.in)
 
