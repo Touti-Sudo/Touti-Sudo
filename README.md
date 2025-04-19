@@ -43,7 +43,7 @@ Let's Connect
 
 🌐 GitHub: Touti-Sudo
 
-Discord: 
+Discord: touti8134
 
 💬 Feel free to reach out for collaboration, feedback, or just to say hi!
 
