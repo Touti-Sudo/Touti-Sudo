@@ -15,21 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-### My Current Projects
-
-Touti Cracker
-
-An educational tool for managing brute-force password attacks, designed with a focus on ethics and learning. 🚨 For educational purposes only.
-
-Features:
-
-Password list generation
-
-Hash extraction and cracking
-
-Automated workflows
-
-📂 Check it out: https://github.com/Touti-Sudo/Touti-Cracker
 
 My Goals
 
